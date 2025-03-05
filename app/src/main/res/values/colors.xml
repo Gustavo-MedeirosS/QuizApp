@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="strong_grey">#363A43</color>
+    <color name="light_grey">#7A8089</color>
+    <color name="button_bg">#6200EE</color>
+    <color name="green_correct_answer">#5AB65D</color>
+    <color name="red_wrong_answer">#BF525E</color>
 </resources>
